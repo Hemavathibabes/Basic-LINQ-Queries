@@ -1,0 +1,13 @@
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.exe
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.deps.json
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.runtimeconfig.json
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.dll
+C:\Users\dell1\source\repos\Listexample\Listexample\bin\Debug\netcoreapp3.1\Listexample.pdb
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.AssemblyInfo.cs
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.dll
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.pdb
+C:\Users\dell1\source\repos\Listexample\Listexample\obj\Debug\netcoreapp3.1\Listexample.genruntimeconfig.cache
