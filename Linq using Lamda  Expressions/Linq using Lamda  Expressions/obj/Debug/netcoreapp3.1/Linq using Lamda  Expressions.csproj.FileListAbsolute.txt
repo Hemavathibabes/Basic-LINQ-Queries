@@ -1,0 +1,13 @@
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.exe
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.deps.json
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.runtimeconfig.json
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.dll
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\bin\Debug\netcoreapp3.1\Linq using Lamda  Expressions.pdb
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.AssemblyInfo.cs
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.dll
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.pdb
+C:\Users\dell1\source\repos\Linq using Lamda  Expressions\Linq using Lamda  Expressions\obj\Debug\netcoreapp3.1\Linq using Lamda  Expressions.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zKFmmKubqfNisy2RMO75lys/fNfV9uarVz7i7JPnR1zLbK3UHPWI1njTyTMFBPWjbVTfirXIefp6XWg+cao1fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell1\\source\\repos\\Linq using Lamda  Expressions\\Linq using Lamda  Expressions\\Linq using Lamda  Expressions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
